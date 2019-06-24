@@ -1,0 +1,46 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "category": "baked good",
+      "ethnicity": "italian",
+      "barcode": "7613034383808"
+    },
+    {
+        "id": 2,
+        "name": "Mongolian Beef",
+        "category": "wok",
+        "ethnicity": "chinese",
+        "barcode": "0078139735261"
+    },
+    {
+      "id": 3,
+      "name": "Fajitas",
+      "category": "grilled",
+      "ethnicity": "mexican",
+      "barcode": "3270160860241"
+    },
+    {
+      "id": 4,
+      "name": "Brisket",
+      "category": "bbq",
+      "ethnicity": "american",
+      "barcode": "0041322356901"
+    },
+    {
+      "id": 5,
+      "name": "Chili Dog",
+      "category": "grilled",
+      "ethnicity": "american",
+      "barcode": "0013733008243"
+    },
+    {
+      "name": "Orange Chicken",
+      "category": "wok",
+      "ethnicity": "chinese",
+      "id": 6,
+      "barcode": "0011110871602"
+    }
+  ]
+}

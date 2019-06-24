@@ -1,0 +1,13 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.food
+{
+    padding: 0px 15px;
+    margin: 20px;
+    border: 1px solid maroon;
+}
